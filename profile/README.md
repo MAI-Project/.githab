@@ -7,5 +7,10 @@
 
 ### [Буловятов Артем:](https://t.me/Artembulov)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bam10112002)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=bam10112002&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bam10112002&layout=compact"/></a>
+</p>
 
