@@ -5,7 +5,7 @@
 
 <h1>Our team:</h1>
 
-###Буловятов Артем: 
+### Буловятов Артем: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bam10112002)](https://github.com/anuraghazra/github-readme-stats)
 
