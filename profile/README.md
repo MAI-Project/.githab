@@ -14,3 +14,12 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bam10112002&layout=compact"/></a>
 </p>
 
+### [Грубенко Максим:](https://t.me/hell_lumpen)
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=hell-lumpen&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hell-lumpen&layout=compact"/></a>
+</p>
+
