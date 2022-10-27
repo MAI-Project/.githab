@@ -5,7 +5,7 @@
 
 <h1 align="center" >Our team:</h1>
 
-### Буловятов Артем: (Telegram)[https://t.me/Artembulov]
+### [Буловятов Артем:](https://t.me/Artembulov)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bam10112002)](https://github.com/anuraghazra/github-readme-stats)
 
