@@ -3,8 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Our team:</h2>
-<span style="margin: 10px">Буловятов Артем:<span>  
+<h1>Our team:</h1>
+
+###Буловятов Артем: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bam10112002)](https://github.com/anuraghazra/github-readme-stats)
 
