@@ -3,7 +3,6 @@
 <h1 align="center" >Our team:</h1>
 
 ### [Буловятов Артем:](https://t.me/Artembulov)
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=bam10112002&show_icons=true&count_private=true"/></a>
@@ -12,7 +11,6 @@
 </p>
 
 ### [Грубенко Максим:](https://t.me/hell_lumpen)
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=hell-lumpen&show_icons=true&count_private=true"/></a>
@@ -21,7 +19,6 @@
 </p>
 
 ### [Нестерова Полина:](https://t.me/polmustdie)
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=polmustdie&show_icons=true&count_private=true"/></a>
@@ -31,7 +28,6 @@
 
 
 ### [Воронцов Данила:](https://t.me/Fogetik)
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Fogetik&show_icons=true&count_private=true"/></a>
@@ -40,12 +36,9 @@
 </p>
 
 ### [Касьян Владислав:](https://t.me/Vladslayt)
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Vladslayt&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladslayt&layout=compact"/></a>
 </p>
-
-
